@@ -1,543 +1,237 @@
-"User_Mac","domain_name","domain_type","web_detail","device","Adult Content","multimedia hosting","Networking/ISP","ad content","microsoft/google/bing","moview review/ticket booking","music hosting","eCommerce","online cloud","Social networking","Travel and Resturants","total"
-"00:1e:de:fb:c7:cf",".in","indian website","Networking/ISP"," HP_10",0,0,15,0,2,0,0,0,0,0,0,17
-"00:1e:de:fb:c7:cf",".com","Commercial","microsoft/google/bing"," HP_10",0,0,15,0,2,0,0,0,0,0,0,17
-"00:27:06:17:70:83",".com","Commercial","Social networking","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Social networking"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Social networking",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Social networking"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Social networking"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Social networking"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business",NA,"Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business",NA," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business",NA,NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business",NA," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business",NA," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business",NA," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","ad content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","ad content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","ad content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","ad content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","ad content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","ad content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business","multimedia hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business","multimedia hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business","multimedia hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business","multimedia hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business","multimedia hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".biz","business","multimedia hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services",NA,"Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services",NA," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services",NA,NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services",NA," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services",NA," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services",NA," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","music hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","music hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","music hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","music hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","music hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","music hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","Networking/ISP","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","Networking/ISP"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","Networking/ISP",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","Networking/ISP"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","Networking/ISP"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","Networking/ISP"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","multimedia hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","multimedia hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","multimedia hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","multimedia hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","multimedia hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","multimedia hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","online cloud","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","online cloud"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","online cloud",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","online cloud"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","online cloud"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","online cloud"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","ad content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","ad content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","ad content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","ad content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","ad content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","ad content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website",NA,"Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website",NA," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website",NA,NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website",NA," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website",NA," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website",NA," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","music hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","music hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","music hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","music hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","music hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","music hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Adult Content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Adult Content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Adult Content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Adult Content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Adult Content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","Adult Content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","eCommerce","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","eCommerce"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","eCommerce",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","eCommerce"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","eCommerce"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","eCommerce"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","online cloud","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","online cloud"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","online cloud",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","online cloud"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","online cloud"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","online cloud"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","microsoft/google/bing","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","microsoft/google/bing"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","microsoft/google/bing",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","microsoft/google/bing"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","microsoft/google/bing"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","microsoft/google/bing"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","ad content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","ad content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","ad content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","ad content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","ad content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","ad content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial",NA,"Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial",NA," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial",NA,NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial",NA," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial",NA," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial",NA," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","multimedia hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","multimedia hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","multimedia hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","multimedia hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","multimedia hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","multimedia hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","microsoft/google/bing","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","microsoft/google/bing"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","microsoft/google/bing",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","microsoft/google/bing"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","microsoft/google/bing"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".com","Commercial","microsoft/google/bing"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","online cloud","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","online cloud"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","online cloud",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","online cloud"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","online cloud"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","online cloud"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","multimedia hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","multimedia hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","multimedia hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","multimedia hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","multimedia hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","multimedia hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","Adult Content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","Adult Content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","Adult Content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","Adult Content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","Adult Content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","Adult Content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","music hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","music hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","music hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","music hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","music hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","music hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","music hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","music hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","music hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","music hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","music hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".net","Internet based services","music hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","music hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","music hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","music hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","music hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","music hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","music hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL",NA,"Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL",NA," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL",NA,NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL",NA," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL",NA," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL",NA," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".tv","multimedia website","ad content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".tv","multimedia website","ad content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".tv","multimedia website","ad content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".tv","multimedia website","ad content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".tv","multimedia website","ad content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".tv","multimedia website","ad content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","multimedia hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","multimedia hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","multimedia hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","multimedia hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","multimedia hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","multimedia hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","ad content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","ad content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","ad content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","ad content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","ad content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","ad content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","microsoft/google/bing","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","microsoft/google/bing"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","microsoft/google/bing",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","microsoft/google/bing"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","microsoft/google/bing"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".in","indian website","microsoft/google/bing"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","Adult Content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","Adult Content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","Adult Content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","Adult Content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","Adult Content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","Adult Content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL","multimedia hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL","multimedia hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL","multimedia hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL","multimedia hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL","multimedia hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".vc","NULL","multimedia hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","microsoft/google/bing","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","microsoft/google/bing"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","microsoft/google/bing",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","microsoft/google/bing"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","microsoft/google/bing"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","microsoft/google/bing"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","ad content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","ad content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","ad content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","ad content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","ad content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".uk","commercial/united kingdom","ad content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","multimedia hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","multimedia hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","multimedia hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","multimedia hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","multimedia hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".me","NUll","multimedia hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","music hosting","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","music hosting"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","music hosting",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","music hosting"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","music hosting"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".org","non profit","music hosting"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","ad content","Sansui-SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","ad content"," MSIE 10",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","ad content",NA,227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","ad content"," Sansui_SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","ad content"," Sansui SA50",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:27:06:17:70:83",".mobi","mobile website","ad content"," Sansui",227,3068,775,2085,606,0,180,5,130,3,0,7079
-"00:73:8d:81:75:0b",".in","indian website","Networking/ISP"," Micromax A200",0,0,16,0,0,0,0,0,0,0,0,16
-"00:ba:52:ec:bd:80",".com","Commercial",NA,NA,0,0,19,0,0,0,0,0,0,0,0,19
-"00:ba:52:ec:bd:80",".com","Commercial",NA,"U;",0,0,19,0,0,0,0,0,0,0,0,19
-"00:ba:52:ec:bd:80",".com","Commercial","Networking/ISP",NA,0,0,19,0,0,0,0,0,0,0,0,19
-"00:ba:52:ec:bd:80",".com","Commercial","Networking/ISP","U;",0,0,19,0,0,0,0,0,0,0,0,19
-"00:ba:52:ec:bd:80",".in","indian website","Networking/ISP",NA,0,0,19,0,0,0,0,0,0,0,0,19
-"00:ba:52:ec:bd:80",".in","indian website","Networking/ISP","U;",0,0,19,0,0,0,0,0,0,0,0,19
-"00:ee:bd:0a:b9:a0",".in","indian website","microsoft/google/bing"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","microsoft/google/bing"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","microsoft/google/bing",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","ad content"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","ad content"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","ad content",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","Networking/ISP"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","Networking/ISP"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","Networking/ISP",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","Networking/ISP"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","Networking/ISP"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","Networking/ISP",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services",NA," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services",NA," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services",NA,NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","eCommerce"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","eCommerce"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","eCommerce",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","multimedia hosting"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","multimedia hosting"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","multimedia hosting",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","microsoft/google/bing"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","microsoft/google/bing"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","microsoft/google/bing",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","microsoft/google/bing"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","microsoft/google/bing"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","microsoft/google/bing",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","Social networking"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","Social networking"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","Social networking",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial",NA," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial",NA," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial",NA,NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","multimedia hosting"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","multimedia hosting"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","multimedia hosting",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","multimedia hosting"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","multimedia hosting"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","multimedia hosting",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","music hosting"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","music hosting"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","music hosting",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","music hosting"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","music hosting"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".in","indian website","music hosting",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".mobi","mobile website","multimedia hosting"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".mobi","mobile website","multimedia hosting"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".mobi","mobile website","multimedia hosting",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","ad content"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","ad content"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","ad content",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","music hosting"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","music hosting"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".com","Commercial","music hosting",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","ad content"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","ad content"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".me","NUll","ad content",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","multimedia hosting"," HTC_D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","multimedia hosting"," HTC D",0,126,500,292,92,0,351,5,0,2,0,1368
-"00:ee:bd:0a:b9:a0",".net","Internet based services","multimedia hosting",NA,0,126,500,292,92,0,351,5,0,2,0,1368
-"0c:60:76:0c:fb:d8",".in","indian website","Networking/ISP"," WOW64",0,0,47,0,0,0,0,0,0,0,0,47
-"0c:60:76:0c:fb:d8",".in","indian website","Networking/ISP"," Win64",0,0,47,0,0,0,0,0,0,0,0,47
-"0c:b3:19:b6:11:0d",".in","indian website","Networking/ISP"," SM-G316",0,0,19,0,0,0,0,0,0,0,0,19
-"10:3b:59:f9:a1:eb",".in","indian website","Networking/ISP",NA,0,0,10,0,0,0,0,0,0,0,0,10
-"10:3b:59:f9:a1:eb",".in","indian website","Networking/ISP"," GT-S7562",0,0,10,0,0,0,0,0,0,0,0,10
-"10:92:66:ae:57:d3",".in","indian website","Networking/ISP"," SM-G350",0,0,7,0,0,0,0,0,0,0,0,7
-"18:dc:56:f0:a9:77",".biz","business","Adult Content"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".in","indian website","Networking/ISP"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".net","Internet based services","multimedia hosting"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".in","indian website","multimedia hosting"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".com","Commercial","ad content"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".com","Commercial","microsoft/google/bing"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".mobi","mobile website","multimedia hosting"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".com","Commercial","Adult Content"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".me","NUll","multimedia hosting"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"18:dc:56:f0:a9:77",".com","Commercial","multimedia hosting"," Micromax A310",38,180,24,124,13,0,0,0,0,0,0,379
-"24:24:0e:59:66:e6",".com","Commercial",NA," CPU OS",0,0,19,2,1,0,0,0,0,0,0,22
-"24:24:0e:59:66:e6",".net","Internet based services","ad content"," CPU OS",0,0,19,2,1,0,0,0,0,0,0,22
-"24:24:0e:59:66:e6",".com","Commercial","microsoft/google/bing"," CPU OS",0,0,19,2,1,0,0,0,0,0,0,22
-"24:24:0e:59:66:e6",".net","Internet based services",NA," CPU OS",0,0,19,2,1,0,0,0,0,0,0,22
-"24:24:0e:59:66:e6",".in","indian website","Networking/ISP"," CPU OS",0,0,19,2,1,0,0,0,0,0,0,22
-"28:e3:47:33:96:b8",".com","Commercial","ad content"," WOW64",0,0,20,5,5,0,0,0,0,1,0,31
-"28:e3:47:33:96:b8",".in","indian website","Networking/ISP"," WOW64",0,0,20,5,5,0,0,0,0,1,0,31
-"28:e3:47:33:96:b8",".net","Internet based services","microsoft/google/bing"," WOW64",0,0,20,5,5,0,0,0,0,1,0,31
-"28:e3:47:33:96:b8",".com","Commercial","microsoft/google/bing"," WOW64",0,0,20,5,5,0,0,0,0,1,0,31
-"28:e3:47:33:96:b8",".com","Commercial","Social networking"," WOW64",0,0,20,5,5,0,0,0,0,1,0,31
-"2c:b4:3a:be:a9:cd",".in","indian website","Networking/ISP"," CPU ",0,0,11,0,0,0,0,0,0,0,0,11
-"2c:b4:3a:be:a9:cd",".in","indian website","Networking/ISP",NA,0,0,11,0,0,0,0,0,0,0,0,11
-"34:be:00:ca:bd:c8",".in","indian website","Networking/ISP"," GT-I8552",0,0,35,0,0,0,0,0,0,0,0,35
-"34:e2:fd:84:ca:47",".in","indian website","Networking/ISP"," CPU ",0,0,3,0,0,0,0,0,0,0,0,3
-"34:e2:fd:9e:ce:df",".in","indian website","Networking/ISP"," CPU OS",0,0,4,0,0,0,0,0,0,0,0,4
-"38:2d:d1:66:b9:ff",".in","indian website","Networking/ISP"," SM-G355",0,0,13,0,0,0,0,0,0,0,0,13
-"3c:18:9f:1a:47:40",".in","indian website","Networking/ISP"," Trident/7",0,0,16,0,0,0,0,0,0,0,0,16
-"3c:97:0e:ea:6c:cd",".net","Internet based services","music hosting",NA,0,9,54,0,3,0,5,0,0,0,0,71
-"3c:97:0e:ea:6c:cd",".net","Internet based services","music hosting"," iris X1",0,9,54,0,3,0,5,0,0,0,0,71
-"3c:97:0e:ea:6c:cd",".net","Internet based services","multimedia hosting",NA,0,9,54,0,3,0,5,0,0,0,0,71
-"3c:97:0e:ea:6c:cd",".net","Internet based services","multimedia hosting"," iris X1",0,9,54,0,3,0,5,0,0,0,0,71
-"3c:97:0e:ea:6c:cd",".com","Commercial","microsoft/google/bing",NA,0,9,54,0,3,0,5,0,0,0,0,71
-"3c:97:0e:ea:6c:cd",".com","Commercial","microsoft/google/bing"," iris X1",0,9,54,0,3,0,5,0,0,0,0,71
-"3c:97:0e:ea:6c:cd",".in","indian website","Networking/ISP",NA,0,9,54,0,3,0,5,0,0,0,0,71
-"3c:97:0e:ea:6c:cd",".in","indian website","Networking/ISP"," iris X1",0,9,54,0,3,0,5,0,0,0,0,71
-"44:d4:e0:35:a5:9a",".com","Commercial","multimedia hosting"," D5322",0,10,0,0,0,0,0,0,0,0,0,10
-"48:5a:3f:6a:ca:e8",".in","indian website","Networking/ISP"," SAMSUNG SM",0,0,6,0,0,0,0,0,0,0,0,6
-"4c:7c:5f:43:c8:35",".in","indian website","Networking/ISP"," CPU ",0,0,3,0,0,0,0,0,0,0,0,3
-"4c:7c:5f:e2:d8:a7",".in","indian website","Networking/ISP"," CPU ",0,0,22,0,0,0,0,0,0,0,0,22
-"50:32:75:cc:1d:a7",".in","indian website","Networking/ISP"," GT-P3100",0,0,2,0,0,0,0,0,0,0,0,2
-"50:fc:9f:98:51:7a",".in","indian website","Networking/ISP",NA,0,0,7,0,0,0,0,0,0,0,0,7
-"50:fc:9f:98:51:7a",".in","indian website","Networking/ISP"," bn-",0,0,7,0,0,0,0,0,0,0,0,7
-"5c:2e:59:70:74:4c",".in","indian website","Networking/ISP"," GT-S7262",0,0,8,0,0,0,0,0,0,0,0,8
-"5c:2e:59:82:40:fd",".in","indian website","Networking/ISP",NA,0,0,8,0,0,0,0,0,0,0,0,8
-"5c:2e:59:82:40:fd",".in","indian website","Networking/ISP"," SM-G350",0,0,8,0,0,0,0,0,0,0,0,8
-"5c:3c:27:17:ce:4f",".in","indian website","Networking/ISP"," SM-T211",0,0,3,0,0,0,0,0,0,0,0,3
-"60:92:17:95:e6:f8",".in","indian website","Networking/ISP"," CPU ",0,0,16,0,0,0,0,0,0,0,0,16
-"64:6c:b2:dc:41:5a",".com","Commercial","microsoft/google/bing"," SM-G530",0,0,187,1,19,0,0,0,0,0,0,207
-"64:6c:b2:dc:41:5a",".net","Internet based services","microsoft/google/bing"," SM-G530",0,0,187,1,19,0,0,0,0,0,0,207
-"64:6c:b2:dc:41:5a",".in","indian website","Networking/ISP"," SM-G530",0,0,187,1,19,0,0,0,0,0,0,207
-"64:6c:b2:dc:41:5a",".com","Commercial","ad content"," SM-G530",0,0,187,1,19,0,0,0,0,0,0,207
-"64:6c:b2:dc:41:5a",".net","Internet based services",NA," SM-G530",0,0,187,1,19,0,0,0,0,0,0,207
-"64:6c:b2:dc:41:5a",".com","Commercial",NA," SM-G530",0,0,187,1,19,0,0,0,0,0,0,207
-"64:77:91:50:19:fe",".in","indian website","Networking/ISP",NA,0,0,42,0,0,0,0,0,0,0,0,42
-"64:77:91:50:19:fe",".in","indian website","Networking/ISP"," GT-I9082",0,0,42,0,0,0,0,0,0,0,0,42
-"64:9a:be:23:79:0b",".in","indian website","Networking/ISP"," CPU ",0,0,8,0,0,0,0,0,0,0,0,8
-"64:b8:53:2e:06:63",".in","indian website","Networking/ISP"," SM-G355",0,0,19,0,0,0,0,0,0,0,0,19
-"80:6c:1b:1a:86:0b",".in","indian website","Networking/ISP"," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"80:6c:1b:1a:86:0b",".in","indian website","moview review/ticket booking"," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"80:6c:1b:1a:86:0b",".com","Commercial","ad content"," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"80:6c:1b:1a:86:0b",".com","Commercial","moview review/ticket booking"," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"80:6c:1b:1a:86:0b",".net","Internet based services","ad content"," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"80:6c:1b:1a:86:0b",".com","Commercial","microsoft/google/bing"," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"80:6c:1b:1a:86:0b",".com","Commercial",NA," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"80:6c:1b:1a:86:0b",".com","Commercial","Social networking"," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"80:6c:1b:1a:86:0b",".net","Internet based services",NA," XT1022",0,0,19,22,1,157,0,0,0,1,0,200
-"88:30:8a:6c:1b:de",".in","indian website","Networking/ISP",NA,0,0,18,0,0,0,0,0,0,0,0,18
-"88:30:8a:6c:1b:de",".in","indian website","Networking/ISP"," GT-I9300",0,0,18,0,0,0,0,0,0,0,0,18
-"90:1d:27:7a:cf:57",".in","indian website","Networking/ISP",NA,0,0,7,0,0,0,0,0,0,0,0,7
-"90:1d:27:7a:cf:57",".in","indian website","Networking/ISP"," Mtag 281",0,0,7,0,0,0,0,0,0,0,0,7
-"90:68:c3:1e:9a:4d",".in","indian website","Networking/ISP"," XT1068",0,0,4,0,0,0,0,0,0,0,0,4
-"98:ff:d0:f1:23:9a",".com","Commercial","moview review/ticket booking",NA,0,0,12,0,0,1,0,0,0,0,0,13
-"98:ff:d0:f1:23:9a",".com","Commercial","moview review/ticket booking"," Lenovo S660",0,0,12,0,0,1,0,0,0,0,0,13
-"98:ff:d0:f1:23:9a",".in","indian website","Networking/ISP",NA,0,0,12,0,0,1,0,0,0,0,0,13
-"98:ff:d0:f1:23:9a",".in","indian website","Networking/ISP"," Lenovo S660",0,0,12,0,0,1,0,0,0,0,0,13
-"ac:9e:17:1b:b8:17",".com","Commercial","Networking/ISP",NA,0,0,18,0,9,0,0,28,0,0,0,55
-"ac:9e:17:1b:b8:17",".net","Internet based services","microsoft/google/bing",NA,0,0,18,0,9,0,0,28,0,0,0,55
-"ac:9e:17:1b:b8:17",".com","Commercial","microsoft/google/bing",NA,0,0,18,0,9,0,0,28,0,0,0,55
-"ac:9e:17:1b:b8:17",".in","indian website","microsoft/google/bing",NA,0,0,18,0,9,0,0,28,0,0,0,55
-"ac:9e:17:1b:b8:17",".net","Internet based services","eCommerce",NA,0,0,18,0,9,0,0,28,0,0,0,55
-"ac:9e:17:1b:b8:17",".in","indian website","Networking/ISP",NA,0,0,18,0,9,0,0,28,0,0,0,55
-"ac:9e:17:1b:b8:17",".com","Commercial","eCommerce",NA,0,0,18,0,9,0,0,28,0,0,0,55
-"ac:9e:17:cf:79:78",".com","Commercial",NA,NA,0,0,102,0,3,0,0,0,0,0,0,105
-"ac:9e:17:cf:79:78",".com","Commercial","microsoft/google/bing",NA,0,0,102,0,3,0,0,0,0,0,0,105
-"ac:9e:17:cf:79:78",".in","indian website","Networking/ISP",NA,0,0,102,0,3,0,0,0,0,0,0,105
-"b0:34:95:f1:7d:cc",".in","indian website","Networking/ISP"," Intel M",0,0,7,0,0,0,0,0,0,0,0,7
-"b0:df:3a:24:7e:0c",".in","indian website","Networking/ISP"," GT-S7582",0,0,5,0,0,0,0,0,0,0,0,5
-"bc:d1:d3:fd:ba:3c",".in","indian website","Networking/ISP"," Spice M",0,0,4,0,0,0,0,0,0,0,0,4
-"cc:3a:61:9e:00:32",".in","indian website","Networking/ISP"," SAMSUNG GT",0,0,3,0,0,0,0,0,0,0,0,3
-"cc:3a:61:b0:34:78",".in","indian website","Networking/ISP"," SAMSUNG GT",0,0,38,0,0,0,0,0,0,0,0,38
-"cc:3a:61:b0:34:78",".in","indian website","Networking/ISP"," GT-I9500",0,0,38,0,0,0,0,0,0,0,0,38
-"cc:c3:ea:67:9d:6b",".in","indian website",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"cc:c3:ea:a6:7f:9b",".com","Commercial","eCommerce"," XT1033",0,0,0,0,0,0,0,2,0,0,0,2
-"d8:3c:69:73:c1:c8",".com","Commercial","ad content"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","ad content",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","ad content"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","Networking/ISP"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","Networking/ISP",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","Networking/ISP"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".mobi","mobile website","music hosting"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".mobi","mobile website","music hosting",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".mobi","mobile website","music hosting"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","music hosting"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","music hosting",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","music hosting"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".net","Internet based services","music hosting"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".net","Internet based services","music hosting",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".net","Internet based services","music hosting"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","multimedia hosting"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","multimedia hosting",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","multimedia hosting"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".me","NUll","music hosting"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".me","NUll","music hosting",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".me","NUll","music hosting"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","microsoft/google/bing"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","microsoft/google/bing",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","microsoft/google/bing"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".mobi","mobile website","online cloud"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".mobi","mobile website","online cloud",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".mobi","mobile website","online cloud"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".net","Internet based services","ad content"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".net","Internet based services","ad content",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".net","Internet based services","ad content"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","music hosting"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","music hosting",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".in","indian website","music hosting"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","microsoft/google/bing"," Mi",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","microsoft/google/bing",NA,0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:73:c1:c8",".com","Commercial","microsoft/google/bing"," Micromax A106",0,4,66,36,101,0,143,0,3,0,0,353
-"d8:3c:69:be:6d:c0",".in","indian website",NA,NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website",NA," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website",NA," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website",NA," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","eCommerce",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","eCommerce"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","eCommerce"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","eCommerce"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","ad content",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","ad content"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","ad content"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","ad content"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Social networking",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Social networking"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Social networking"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Social networking"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services",NA,NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services",NA," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services",NA," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services",NA," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Travel and Resturants",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Travel and Resturants"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Travel and Resturants"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Travel and Resturants"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","ad content",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","ad content"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","ad content"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","ad content"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial",NA,NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial",NA," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial",NA," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial",NA," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","multimedia hosting",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","multimedia hosting"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","multimedia hosting"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","multimedia hosting"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".cn","business/china",NA,NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".cn","business/china",NA," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".cn","business/china",NA," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".cn","business/china",NA," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","microsoft/google/bing",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","microsoft/google/bing"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","microsoft/google/bing"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","microsoft/google/bing"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Networking/ISP",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Networking/ISP"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Networking/ISP"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","Networking/ISP"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","microsoft/google/bing",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","microsoft/google/bing"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","microsoft/google/bing"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","microsoft/google/bing"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".org","non profit","multimedia hosting",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".org","non profit","multimedia hosting"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".org","non profit","multimedia hosting"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".org","non profit","multimedia hosting"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","multimedia hosting",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","multimedia hosting"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","multimedia hosting"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","multimedia hosting"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","Networking/ISP",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","Networking/ISP"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","Networking/ISP"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".in","indian website","Networking/ISP"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","microsoft/google/bing",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","microsoft/google/bing"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","microsoft/google/bing"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".com","Commercial","microsoft/google/bing"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","multimedia hosting",NA,0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","multimedia hosting"," Opera M",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","multimedia hosting"," Mic",0,498,519,6,248,0,0,8,0,1,7,1287
-"d8:3c:69:be:6d:c0",".net","Internet based services","multimedia hosting"," Micromax A066",0,498,519,6,248,0,0,8,0,1,7,1287
-"e4:92:fb:ed:d3:76",".in","indian website","ad content",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".in","indian website","ad content"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","online cloud",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","online cloud"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".biz","business","Adult Content",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".biz","business","Adult Content"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial",NA,NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial",NA," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".net","Internet based services","ad content",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".net","Internet based services","ad content"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".mobi","mobile website","music hosting",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".mobi","mobile website","music hosting"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","ad content",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","ad content"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","Adult Content",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","Adult Content"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".in","indian website","multimedia hosting",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".in","indian website","multimedia hosting"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".mobi","mobile website","multimedia hosting",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".mobi","mobile website","multimedia hosting"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","multimedia hosting",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","multimedia hosting"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".in","indian website","microsoft/google/bing",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".in","indian website","microsoft/google/bing"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".me","NUll","multimedia hosting",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".me","NUll","multimedia hosting"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","microsoft/google/bing",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".com","Commercial","microsoft/google/bing"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".net","Internet based services","Adult Content",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".net","Internet based services","Adult Content"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".in","indian website","Networking/ISP",NA,43,87,186,58,35,0,6,0,183,0,0,598
-"e4:92:fb:ed:d3:76",".in","indian website","Networking/ISP"," GT-I8552",43,87,186,58,35,0,6,0,183,0,0,598
-"e8:92:a4:e5:11:5c",".in","indian website","Networking/ISP",NA,0,0,9,0,0,0,0,0,0,0,0,9
-"e8:92:a4:e5:11:5c",".in","indian website","Networking/ISP"," LG-E405",0,0,9,0,0,0,0,0,0,0,0,9
-"e8:99:c4:bc:0e:1a",".in","indian website","Networking/ISP"," HTC_O",0,0,15,0,0,0,0,0,0,0,0,15
-"f4:f5:a5:47:d5:e2",".in","indian website","Networking/ISP"," Windows P",0,0,10,0,0,0,0,0,0,0,0,10
-"f4:f5:a5:47:d5:e2",".in","indian website","Networking/ISP"," Trident/7",0,0,10,0,0,0,0,0,0,0,0,10
-"fc:92:3b:a6:e8:a8",".in","indian website","Networking/ISP"," Windows P",0,0,1,0,0,0,0,0,0,0,0,1
+"domain_name","User.Mac","device","domain_type","web_detail","Adult Content","multimedia hosting","Networking/ISP","ad content","microsoft/google/bing","moview review/ticket booking","music hosting","eCommerce","online cloud","Social networking","Travel and Resturants","News/magzines","total"
+".biz","18:dc:56:f0:a9:77"," Micromax A310","business","Adult Content",38,180,24,124,13,0,0,0,0,0,0,0,379
+".biz","00:27:06:17:70:83","Sansui-SA50","business","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".biz","e4:92:fb:ed:d3:76"," GT-I8552","business","Adult Content",43,87,186,58,35,0,6,0,183,0,0,0,598
+".biz","00:27:06:17:70:83",NA,"business","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:27:06:17:70:83"," Sansui_SA50","Commercial","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:27:06:17:70:83"," Sansui SA50","Commercial","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:27:06:17:70:83",NA,"Commercial","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:27:06:17:70:83","Sansui-SA50","Commercial","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:27:06:17:70:83"," Sansui SA50","Commercial","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","d8:3c:69:be:6d:c0"," Micromax A066","Commercial","Networking/ISP",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","00:ba:52:ec:bd:80","U;","Commercial","Networking/ISP",0,0,19,0,0,0,0,0,0,0,0,0,19
+".com","d8:3c:69:be:6d:c0"," Micromax A066","Commercial","multimedia hosting",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","00:27:06:17:70:83",NA,"Commercial","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:ba:52:ec:bd:80",NA,"Commercial","Networking/ISP",0,0,19,0,0,0,0,0,0,0,0,0,19
+".com","d8:3c:69:73:c1:c8"," Micromax A106","Commercial","ad content",0,4,66,36,101,0,143,0,3,0,0,0,353
+".com","e4:92:fb:ed:d3:76"," GT-I8552","Commercial","ad content",43,87,186,58,35,0,6,0,183,0,0,0,598
+".com","00:ee:bd:0a:b9:a0",NA,"Commercial","ad content",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".com","18:dc:56:f0:a9:77"," Micromax A310","Commercial","ad content",38,180,24,124,13,0,0,0,0,0,0,0,379
+".com","00:ee:bd:0a:b9:a0"," HTC D","Commercial","microsoft/google/bing",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".com","98:ff:d0:f1:23:9a"," Lenovo S660","Commercial","moview review/ticket booking",0,0,12,0,0,1,0,0,0,0,0,0,13
+".com","00:27:06:17:70:83"," Sansui SA50","Commercial","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","80:6c:1b:1a:86:0b"," XT1022","Commercial","ad content",0,0,19,22,1,157,0,0,0,1,0,0,200
+".com","00:27:06:17:70:83","Sansui-SA50","Commercial","Adult Content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","80:6c:1b:1a:86:0b"," XT1022","Commercial","moview review/ticket booking",0,0,19,22,1,157,0,0,0,1,0,0,200
+".com","00:27:06:17:70:83"," Sansui","Commercial","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","44:d4:e0:35:a5:9a"," D5322","Commercial","multimedia hosting",0,10,0,0,0,0,0,0,0,0,0,0,10
+".com","00:ee:bd:0a:b9:a0"," HTC D","Commercial","ad content",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".com","d8:3c:69:73:c1:c8"," Micromax A106","Commercial","multimedia hosting",0,4,66,36,101,0,143,0,3,0,0,0,353
+".com","00:27:06:17:70:83","Sansui-SA50","Commercial","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:ee:bd:0a:b9:a0"," HTC D","Commercial","music hosting",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".com","00:27:06:17:70:83"," Sansui_SA50","Commercial","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","ac:9e:17:1b:b8:17",NA,"Commercial","eCommerce",0,0,18,0,9,0,0,28,0,0,0,0,55
+".com","d8:3c:69:be:6d:c0"," Micromax A066","Commercial","microsoft/google/bing",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","e4:92:fb:ed:d3:76",NA,"Commercial","ad content",43,87,186,58,35,0,6,0,183,0,0,0,598
+".com","64:6c:b2:dc:41:5a"," SM-G530","Commercial","microsoft/google/bing",0,0,187,1,19,0,0,0,0,0,0,0,207
+".com","d8:3c:69:be:6d:c0",NA,"Commercial","multimedia hosting",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","d8:3c:69:73:c1:c8"," Micromax A106","Commercial","microsoft/google/bing",0,4,66,36,101,0,143,0,3,0,0,0,353
+".com","00:27:06:17:70:83","Sansui-SA50","Commercial","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","ac:9e:17:cf:79:78",NA,"Commercial","microsoft/google/bing",0,0,102,0,3,0,0,0,0,0,0,0,105
+".com","e4:92:fb:ed:d3:76"," GT-I8552","Commercial","online cloud",43,87,186,58,35,0,6,0,183,0,0,0,598
+".com","e4:92:fb:ed:d3:76"," GT-I8552","Commercial","Adult Content",43,87,186,58,35,0,6,0,183,0,0,0,598
+".com","00:27:06:17:70:83","Sansui-SA50","Commercial","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:1e:de:fb:c7:cf"," HP_10","Commercial","microsoft/google/bing",0,0,15,0,2,0,0,0,0,0,0,0,17
+".com","00:27:06:17:70:83"," Sansui_SA50","Commercial","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","d8:3c:69:be:6d:c0"," Micromax A066","Commercial","ad content",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","d8:3c:69:be:6d:c0"," Micromax A066","Commercial","News/magzines",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","64:6c:b2:dc:41:5a"," SM-G530","Commercial","ad content",0,0,187,1,19,0,0,0,0,0,0,0,207
+".com","d8:3c:69:73:c1:c8"," Micromax A106","Commercial","music hosting",0,4,66,36,101,0,143,0,3,0,0,0,353
+".com","80:6c:1b:1a:86:0b"," XT1022","Commercial","Social networking",0,0,19,22,1,157,0,0,0,1,0,0,200
+".com","e4:92:fb:ed:d3:76"," GT-I8552","Commercial","multimedia hosting",43,87,186,58,35,0,6,0,183,0,0,0,598
+".com","00:27:06:17:70:83","Sansui-SA50","Commercial","online cloud",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","d8:3c:69:be:6d:c0"," Micromax A066","Commercial","eCommerce",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","cc:c3:ea:a6:7f:9b"," XT1033","Commercial","eCommerce",0,0,0,0,0,0,0,2,0,0,0,0,2
+".com","d8:3c:69:be:6d:c0",NA,"Commercial","microsoft/google/bing",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","00:27:06:17:70:83"," MSIE 10","Commercial","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","28:e3:47:33:96:b8"," WOW64","Commercial","ad content",0,0,20,5,5,0,0,0,0,1,0,0,31
+".com","00:27:06:17:70:83","Sansui-SA50","Commercial","Social networking",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","ac:9e:17:1b:b8:17",NA,"Commercial","Networking/ISP",0,0,18,0,9,0,0,28,0,0,0,0,55
+".com","18:dc:56:f0:a9:77"," Micromax A310","Commercial","multimedia hosting",38,180,24,124,13,0,0,0,0,0,0,0,379
+".com","00:ee:bd:0a:b9:a0"," HTC D","Commercial","multimedia hosting",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".com","00:27:06:17:70:83"," Sansui SA50","Commercial","Adult Content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:27:06:17:70:83"," Sansui SA50","Commercial","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:ee:bd:0a:b9:a0"," HTC D","Commercial","Social networking",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".com","d8:3c:69:be:6d:c0"," Micromax A066","Commercial","Social networking",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","d8:3c:69:be:6d:c0"," Opera M","Commercial","microsoft/google/bing",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".com","00:27:06:17:70:83"," Sansui_SA50","Commercial","online cloud",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","00:ee:bd:0a:b9:a0"," HTC D","Commercial","eCommerce",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".com","00:ee:bd:0a:b9:a0"," HTC D","Commercial","Networking/ISP",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".com","00:27:06:17:70:83"," Sansui_SA50","Commercial","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","18:dc:56:f0:a9:77"," Micromax A310","Commercial","microsoft/google/bing",38,180,24,124,13,0,0,0,0,0,0,0,379
+".com","28:e3:47:33:96:b8"," WOW64","Commercial","Social networking",0,0,20,5,5,0,0,0,0,1,0,0,31
+".com","28:e3:47:33:96:b8"," WOW64","Commercial","microsoft/google/bing",0,0,20,5,5,0,0,0,0,1,0,0,31
+".com","00:27:06:17:70:83",NA,"Commercial","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","e4:92:fb:ed:d3:76"," GT-I8552","Commercial","microsoft/google/bing",43,87,186,58,35,0,6,0,183,0,0,0,598
+".com","3c:97:0e:ea:6c:cd"," iris X1","Commercial","microsoft/google/bing",0,9,54,0,3,0,5,0,0,0,0,0,71
+".com","00:27:06:17:70:83"," Sansui_SA50","Commercial","eCommerce",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".com","18:dc:56:f0:a9:77"," Micromax A310","Commercial","Adult Content",38,180,24,124,13,0,0,0,0,0,0,0,379
+".com","e4:92:fb:ed:d3:76",NA,"Commercial","microsoft/google/bing",43,87,186,58,35,0,6,0,183,0,0,0,598
+".com","80:6c:1b:1a:86:0b"," XT1022","Commercial","microsoft/google/bing",0,0,19,22,1,157,0,0,0,1,0,0,200
+".com","d8:3c:69:73:c1:c8",NA,"Commercial","microsoft/google/bing",0,4,66,36,101,0,143,0,3,0,0,0,353
+".com","24:24:0e:59:66:e6"," CPU OS","Commercial","microsoft/google/bing",0,0,19,2,1,0,0,0,0,0,0,0,22
+".com","ac:9e:17:1b:b8:17",NA,"Commercial","microsoft/google/bing",0,0,18,0,9,0,0,28,0,0,0,0,55
+".in","00:27:06:17:70:83"," Sansui SA50","indian website","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","00:27:06:17:70:83",NA,"indian website","Networking/ISP",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","ac:9e:17:cf:79:78",NA,"indian website","Networking/ISP",0,0,102,0,3,0,0,0,0,0,0,0,105
+".in","80:6c:1b:1a:86:0b"," XT1022","indian website","moview review/ticket booking",0,0,19,22,1,157,0,0,0,1,0,0,200
+".in","e4:92:fb:ed:d3:76"," GT-I8552","indian website","Networking/ISP",43,87,186,58,35,0,6,0,183,0,0,0,598
+".in","64:6c:b2:dc:41:5a"," SM-G530","indian website","Networking/ISP",0,0,187,1,19,0,0,0,0,0,0,0,207
+".in","00:27:06:17:70:83","Sansui-SA50","indian website","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","0c:b3:19:b6:11:0d"," SM-G316","indian website","Networking/ISP",0,0,19,0,0,0,0,0,0,0,0,0,19
+".in","38:2d:d1:66:b9:ff"," SM-G355","indian website","Networking/ISP",0,0,13,0,0,0,0,0,0,0,0,0,13
+".in","e8:92:a4:e5:11:5c"," LG-E405","indian website","Networking/ISP",0,0,9,0,0,0,0,0,0,0,0,0,9
+".in","00:ee:bd:0a:b9:a0"," HTC D","indian website","Networking/ISP",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".in","00:1e:de:fb:c7:cf"," HP_10","indian website","Networking/ISP",0,0,15,0,2,0,0,0,0,0,0,0,17
+".in","3c:97:0e:ea:6c:cd"," iris X1","indian website","Networking/ISP",0,9,54,0,3,0,5,0,0,0,0,0,71
+".in","0c:60:76:0c:fb:d8"," WOW64","indian website","Networking/ISP",0,0,47,0,0,0,0,0,0,0,0,0,47
+".in","d8:3c:69:be:6d:c0"," Micromax A066","indian website","Networking/ISP",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".in","00:27:06:17:70:83","Sansui-SA50","indian website","Networking/ISP",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","80:6c:1b:1a:86:0b"," XT1022","indian website","Networking/ISP",0,0,19,22,1,157,0,0,0,1,0,0,200
+".in","00:27:06:17:70:83","Sansui-SA50","indian website","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","28:e3:47:33:96:b8"," WOW64","indian website","Networking/ISP",0,0,20,5,5,0,0,0,0,1,0,0,31
+".in","bc:d1:d3:fd:ba:3c"," Spice M","indian website","Networking/ISP",0,0,4,0,0,0,0,0,0,0,0,0,4
+".in","00:27:06:17:70:83","Sansui-SA50","indian website","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","0c:60:76:0c:fb:d8"," Win64","indian website","Networking/ISP",0,0,47,0,0,0,0,0,0,0,0,0,47
+".in","00:ba:52:ec:bd:80","U;","indian website","Networking/ISP",0,0,19,0,0,0,0,0,0,0,0,0,19
+".in","d8:3c:69:be:6d:c0",NA,"indian website","Networking/ISP",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".in","64:77:91:50:19:fe"," GT-I9082","indian website","Networking/ISP",0,0,42,0,0,0,0,0,0,0,0,0,42
+".in","d8:3c:69:73:c1:c8"," Micromax A106","indian website","Networking/ISP",0,4,66,36,101,0,143,0,3,0,0,0,353
+".in","3c:18:9f:1a:47:40"," Trident/7","indian website","Networking/ISP",0,0,16,0,0,0,0,0,0,0,0,0,16
+".in","2c:b4:3a:be:a9:cd"," CPU ","indian website","Networking/ISP",0,0,11,0,0,0,0,0,0,0,0,0,11
+".in","00:ee:bd:0a:b9:a0"," HTC_D","indian website","Networking/ISP",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".in","18:dc:56:f0:a9:77"," Micromax A310","indian website","Networking/ISP",38,180,24,124,13,0,0,0,0,0,0,0,379
+".in","ac:9e:17:1b:b8:17",NA,"indian website","Networking/ISP",0,0,18,0,9,0,0,28,0,0,0,0,55
+".in","00:27:06:17:70:83"," Sansui SA50","indian website","Networking/ISP",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","b0:df:3a:24:7e:0c"," GT-S7582","indian website","Networking/ISP",0,0,5,0,0,0,0,0,0,0,0,0,5
+".in","64:b8:53:2e:06:63"," SM-G355","indian website","Networking/ISP",0,0,19,0,0,0,0,0,0,0,0,0,19
+".in","00:ee:bd:0a:b9:a0"," HTC D","indian website","multimedia hosting",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".in","00:ba:52:ec:bd:80",NA,"indian website","Networking/ISP",0,0,19,0,0,0,0,0,0,0,0,0,19
+".in","e4:92:fb:ed:d3:76",NA,"indian website","Networking/ISP",43,87,186,58,35,0,6,0,183,0,0,0,598
+".in","b0:34:95:f1:7d:cc"," Intel M","indian website","Networking/ISP",0,0,7,0,0,0,0,0,0,0,0,0,7
+".in","f4:f5:a5:47:d5:e2"," Windows P","indian website","Networking/ISP",0,0,10,0,0,0,0,0,0,0,0,0,10
+".in","e8:99:c4:bc:0e:1a"," HTC_O","indian website","Networking/ISP",0,0,15,0,0,0,0,0,0,0,0,0,15
+".in","00:ee:bd:0a:b9:a0"," HTC D","indian website","music hosting",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".in","d8:3c:69:73:c1:c8"," Micromax A106","indian website","music hosting",0,4,66,36,101,0,143,0,3,0,0,0,353
+".in","60:92:17:95:e6:f8"," CPU ","indian website","Networking/ISP",0,0,16,0,0,0,0,0,0,0,0,0,16
+".in","cc:3a:61:b0:34:78"," GT-I9500","indian website","Networking/ISP",0,0,38,0,0,0,0,0,0,0,0,0,38
+".in","4c:7c:5f:e2:d8:a7"," CPU ","indian website","Networking/ISP",0,0,22,0,0,0,0,0,0,0,0,0,22
+".in","e4:92:fb:ed:d3:76"," GT-I8552","indian website","ad content",43,87,186,58,35,0,6,0,183,0,0,0,598
+".in","24:24:0e:59:66:e6"," CPU OS","indian website","Networking/ISP",0,0,19,2,1,0,0,0,0,0,0,0,22
+".in","5c:2e:59:82:40:fd"," SM-G350","indian website","Networking/ISP",0,0,8,0,0,0,0,0,0,0,0,0,8
+".in","00:73:8d:81:75:0b"," Micromax A200","indian website","Networking/ISP",0,0,16,0,0,0,0,0,0,0,0,0,16
+".in","48:5a:3f:6a:ca:e8"," SAMSUNG SM","indian website","Networking/ISP",0,0,6,0,0,0,0,0,0,0,0,0,6
+".in","d8:3c:69:73:c1:c8",NA,"indian website","Networking/ISP",0,4,66,36,101,0,143,0,3,0,0,0,353
+".in","88:30:8a:6c:1b:de"," GT-I9300","indian website","Networking/ISP",0,0,18,0,0,0,0,0,0,0,0,0,18
+".in","90:1d:27:7a:cf:57"," Mtag 281","indian website","Networking/ISP",0,0,7,0,0,0,0,0,0,0,0,0,7
+".in","00:27:06:17:70:83"," Sansui_SA50","indian website","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","4c:7c:5f:43:c8:35"," CPU ","indian website","Networking/ISP",0,0,3,0,0,0,0,0,0,0,0,0,3
+".in","18:dc:56:f0:a9:77"," Micromax A310","indian website","multimedia hosting",38,180,24,124,13,0,0,0,0,0,0,0,379
+".in","cc:3a:61:9e:00:32"," SAMSUNG GT","indian website","Networking/ISP",0,0,3,0,0,0,0,0,0,0,0,0,3
+".in","10:3b:59:f9:a1:eb"," GT-S7562","indian website","Networking/ISP",0,0,10,0,0,0,0,0,0,0,0,0,10
+".in","98:ff:d0:f1:23:9a"," Lenovo S660","indian website","Networking/ISP",0,0,12,0,0,1,0,0,0,0,0,0,13
+".in","34:be:00:ca:bd:c8"," GT-I8552","indian website","Networking/ISP",0,0,35,0,0,0,0,0,0,0,0,0,35
+".in","00:27:06:17:70:83"," Sansui SA50","indian website","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","64:9a:be:23:79:0b"," CPU ","indian website","Networking/ISP",0,0,8,0,0,0,0,0,0,0,0,0,8
+".in","34:e2:fd:84:ca:47"," CPU ","indian website","Networking/ISP",0,0,3,0,0,0,0,0,0,0,0,0,3
+".in","50:32:75:cc:1d:a7"," GT-P3100","indian website","Networking/ISP",0,0,2,0,0,0,0,0,0,0,0,0,2
+".in","00:ee:bd:0a:b9:a0"," HTC D","indian website","microsoft/google/bing",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".in","50:fc:9f:98:51:7a",NA,"indian website","Networking/ISP",0,0,7,0,0,0,0,0,0,0,0,0,7
+".in","50:fc:9f:98:51:7a"," bn-","indian website","Networking/ISP",0,0,7,0,0,0,0,0,0,0,0,0,7
+".in","5c:2e:59:70:74:4c"," GT-S7262","indian website","Networking/ISP",0,0,8,0,0,0,0,0,0,0,0,0,8
+".in","34:e2:fd:9e:ce:df"," CPU OS","indian website","Networking/ISP",0,0,4,0,0,0,0,0,0,0,0,0,4
+".in","cc:3a:61:b0:34:78"," SAMSUNG GT","indian website","Networking/ISP",0,0,38,0,0,0,0,0,0,0,0,0,38
+".in","fc:92:3b:a6:e8:a8"," Windows P","indian website","Networking/ISP",0,0,1,0,0,0,0,0,0,0,0,0,1
+".in","5c:3c:27:17:ce:4f"," SM-T211","indian website","Networking/ISP",0,0,3,0,0,0,0,0,0,0,0,0,3
+".in","10:92:66:ae:57:d3"," SM-G350","indian website","Networking/ISP",0,0,7,0,0,0,0,0,0,0,0,0,7
+".in","00:27:06:17:70:83"," Sansui_SA50","indian website","online cloud",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","e4:92:fb:ed:d3:76"," GT-I8552","indian website","multimedia hosting",43,87,186,58,35,0,6,0,183,0,0,0,598
+".in","e4:92:fb:ed:d3:76"," GT-I8552","indian website","microsoft/google/bing",43,87,186,58,35,0,6,0,183,0,0,0,598
+".in","88:30:8a:6c:1b:de",NA,"indian website","Networking/ISP",0,0,18,0,0,0,0,0,0,0,0,0,18
+".in","f4:f5:a5:47:d5:e2"," Trident/7","indian website","Networking/ISP",0,0,10,0,0,0,0,0,0,0,0,0,10
+".in","5c:2e:59:82:40:fd",NA,"indian website","Networking/ISP",0,0,8,0,0,0,0,0,0,0,0,0,8
+".in","2c:b4:3a:be:a9:cd",NA,"indian website","Networking/ISP",0,0,11,0,0,0,0,0,0,0,0,0,11
+".in","64:77:91:50:19:fe",NA,"indian website","Networking/ISP",0,0,42,0,0,0,0,0,0,0,0,0,42
+".in","00:27:06:17:70:83"," Sansui SA50","indian website","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".in","d8:3c:69:73:c1:c8"," Micromax A106","indian website","microsoft/google/bing",0,4,66,36,101,0,143,0,3,0,0,0,353
+".in","d8:3c:69:be:6d:c0"," Micromax A066","indian website","microsoft/google/bing",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".in","00:ee:bd:0a:b9:a0",NA,"indian website","Networking/ISP",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".in","98:ff:d0:f1:23:9a",NA,"indian website","Networking/ISP",0,0,12,0,0,1,0,0,0,0,0,0,13
+".in","e8:92:a4:e5:11:5c",NA,"indian website","Networking/ISP",0,0,9,0,0,0,0,0,0,0,0,0,9
+".in","d8:3c:69:be:6d:c0"," Mic","indian website","Networking/ISP",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".in","90:1d:27:7a:cf:57",NA,"indian website","Networking/ISP",0,0,7,0,0,0,0,0,0,0,0,0,7
+".in","10:3b:59:f9:a1:eb",NA,"indian website","Networking/ISP",0,0,10,0,0,0,0,0,0,0,0,0,10
+".in","ac:9e:17:1b:b8:17",NA,"indian website","microsoft/google/bing",0,0,18,0,9,0,0,28,0,0,0,0,55
+".in","90:68:c3:1e:9a:4d"," XT1068","indian website","Networking/ISP",0,0,4,0,0,0,0,0,0,0,0,0,4
+".in","d8:3c:69:73:c1:c8"," Mi","indian website","microsoft/google/bing",0,4,66,36,101,0,143,0,3,0,0,0,353
+".in","d8:3c:69:be:6d:c0"," Micromax A066","indian website","multimedia hosting",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".me","00:27:06:17:70:83","Sansui-SA50","NUll","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".me","18:dc:56:f0:a9:77"," Micromax A310","NUll","multimedia hosting",38,180,24,124,13,0,0,0,0,0,0,0,379
+".me","00:ee:bd:0a:b9:a0"," HTC D","NUll","multimedia hosting",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".me","00:27:06:17:70:83"," Sansui_SA50","NUll","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".me","d8:3c:69:73:c1:c8"," Micromax A106","NUll","music hosting",0,4,66,36,101,0,143,0,3,0,0,0,353
+".me","e4:92:fb:ed:d3:76"," GT-I8552","NUll","multimedia hosting",43,87,186,58,35,0,6,0,183,0,0,0,598
+".me","00:27:06:17:70:83"," Sansui SA50","NUll","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".me","00:ee:bd:0a:b9:a0"," HTC D","NUll","music hosting",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".me","00:27:06:17:70:83","Sansui-SA50","NUll","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".me","00:27:06:17:70:83"," Sansui_SA50","NUll","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".me","00:ee:bd:0a:b9:a0"," HTC D","NUll","ad content",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".mobi","00:ee:bd:0a:b9:a0"," HTC D","mobile website","multimedia hosting",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".mobi","e4:92:fb:ed:d3:76"," GT-I8552","mobile website","multimedia hosting",43,87,186,58,35,0,6,0,183,0,0,0,598
+".mobi","00:27:06:17:70:83","Sansui-SA50","mobile website","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".mobi","d8:3c:69:73:c1:c8"," Micromax A106","mobile website","online cloud",0,4,66,36,101,0,143,0,3,0,0,0,353
+".mobi","00:27:06:17:70:83"," Sansui SA50","mobile website","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".mobi","e4:92:fb:ed:d3:76"," GT-I8552","mobile website","music hosting",43,87,186,58,35,0,6,0,183,0,0,0,598
+".mobi","00:27:06:17:70:83","Sansui-SA50","mobile website","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".mobi","18:dc:56:f0:a9:77"," Micromax A310","mobile website","multimedia hosting",38,180,24,124,13,0,0,0,0,0,0,0,379
+".mobi","d8:3c:69:73:c1:c8"," Micromax A106","mobile website","music hosting",0,4,66,36,101,0,143,0,3,0,0,0,353
+".net","ac:9e:17:1b:b8:17",NA,"Internet based services","microsoft/google/bing",0,0,18,0,9,0,0,28,0,0,0,0,55
+".net","d8:3c:69:be:6d:c0"," Micromax A066","Internet based services","multimedia hosting",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".net","d8:3c:69:be:6d:c0"," Micromax A066","Internet based services","microsoft/google/bing",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".net","00:27:06:17:70:83"," Sansui SA50","Internet based services","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","00:27:06:17:70:83"," Sansui SA50","Internet based services","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","d8:3c:69:73:c1:c8"," Micromax A106","Internet based services","ad content",0,4,66,36,101,0,143,0,3,0,0,0,353
+".net","00:ee:bd:0a:b9:a0"," HTC D","Internet based services","microsoft/google/bing",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".net","64:6c:b2:dc:41:5a"," SM-G530","Internet based services","microsoft/google/bing",0,0,187,1,19,0,0,0,0,0,0,0,207
+".net","00:27:06:17:70:83"," Sansui SA50","Internet based services","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","e4:92:fb:ed:d3:76"," GT-I8552","Internet based services","Adult Content",43,87,186,58,35,0,6,0,183,0,0,0,598
+".net","00:27:06:17:70:83","Sansui-SA50","Internet based services","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","00:27:06:17:70:83","Sansui-SA50","Internet based services","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","80:6c:1b:1a:86:0b"," XT1022","Internet based services","ad content",0,0,19,22,1,157,0,0,0,1,0,0,200
+".net","28:e3:47:33:96:b8"," WOW64","Internet based services","microsoft/google/bing",0,0,20,5,5,0,0,0,0,1,0,0,31
+".net","00:27:06:17:70:83"," Sansui","Internet based services","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","24:24:0e:59:66:e6"," CPU OS","Internet based services","ad content",0,0,19,2,1,0,0,0,0,0,0,0,22
+".net","00:27:06:17:70:83"," Sansui_SA50","Internet based services","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","00:27:06:17:70:83",NA,"Internet based services","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","00:ee:bd:0a:b9:a0"," HTC D","Internet based services","multimedia hosting",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".net","e4:92:fb:ed:d3:76"," GT-I8552","Internet based services","ad content",43,87,186,58,35,0,6,0,183,0,0,0,598
+".net","18:dc:56:f0:a9:77"," Micromax A310","Internet based services","multimedia hosting",38,180,24,124,13,0,0,0,0,0,0,0,379
+".net","00:27:06:17:70:83","Sansui-SA50","Internet based services","Adult Content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","00:ee:bd:0a:b9:a0"," HTC D","Internet based services","ad content",0,126,500,292,92,0,351,5,0,2,0,0,1368
+".net","ac:9e:17:1b:b8:17",NA,"Internet based services","eCommerce",0,0,18,0,9,0,0,28,0,0,0,0,55
+".net","d8:3c:69:be:6d:c0"," Micromax A066","Internet based services","ad content",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".net","3c:97:0e:ea:6c:cd"," iris X1","Internet based services","multimedia hosting",0,9,54,0,3,0,5,0,0,0,0,0,71
+".net","3c:97:0e:ea:6c:cd"," iris X1","Internet based services","music hosting",0,9,54,0,3,0,5,0,0,0,0,0,71
+".net","00:27:06:17:70:83","Sansui-SA50","Internet based services","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".net","3c:97:0e:ea:6c:cd",NA,"Internet based services","multimedia hosting",0,9,54,0,3,0,5,0,0,0,0,0,71
+".net","d8:3c:69:73:c1:c8"," Micromax A106","Internet based services","music hosting",0,4,66,36,101,0,143,0,3,0,0,0,353
+".org","00:27:06:17:70:83","Sansui-SA50","non profit","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".org","00:27:06:17:70:83","Sansui-SA50","non profit","music hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".org","00:27:06:17:70:83","Sansui-SA50","non profit","microsoft/google/bing",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".org","00:27:06:17:70:83"," Sansui SA50","non profit","online cloud",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".org","d8:3c:69:be:6d:c0"," Micromax A066","non profit","multimedia hosting",0,498,519,6,248,0,0,8,0,1,0,7,1287
+".tv","00:27:06:17:70:83"," Sansui SA50","multimedia website","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".uk","00:27:06:17:70:83","Sansui-SA50","commercial/united kingdom","Adult Content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".uk","00:27:06:17:70:83","Sansui-SA50","commercial/united kingdom","ad content",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".vc","00:27:06:17:70:83","Sansui-SA50","NULL","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079
+".vc","00:27:06:17:70:83"," Sansui_SA50","NULL","multimedia hosting",227,3068,775,2085,606,0,180,5,130,3,0,0,7079

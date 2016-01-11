@@ -42,6 +42,10 @@ pattern_11<-"trip|adviser|makenytrip|yatra|goibibo|airindia|spicejet|indigo
               dominos|pizza|zomato|foodpanda|justeat|khana|burp"
 
 
+#online magzines/news
+pattern_12<-"India|news|today|poltics|sarita|jagran"
+  
+  
 #introducing new wed detail column
 refined_t$web_detail<-NA
 
@@ -126,5 +130,15 @@ for(i in 1:nrow(refined_t)){
     refined_t$web_detail[i]<-"Travel and Resturants"
   }
   
+  if(grepl(pattern_11,message_1,ignore.case = TRUE)|
+     grepl(pattern_11,message_2,ignore.case = TRUE)|
+     grepl(pattern_11,message_3,ignore.case = TRUE)){
+    
+    refined_t$web_detail[i]<-"News/magzines"
+  }
+  
 }
+
+
+
 source('~/i2ei/user_profile.R')
